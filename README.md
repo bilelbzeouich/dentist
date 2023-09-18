@@ -44,8 +44,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ![image](https://github.com/bilelbzeouich/dentist/assets/80858599/831b020d-9970-4c29-a950-d1bac52e9897)
 ![image](https://github.com/bilelbzeouich/dentist/assets/80858599/9634ff01-91ef-40fc-8b1e-f0294e4e6c9f)
 ![image](https://github.com/bilelbzeouich/dentist/assets/80858599/46392496-5daa-4e9d-a98f-9bdc221bde5b)
-![image](https://github.com/bilelbzeouich/dentist/assets/80858599/e0010556-3172-4f81-9e27-9085aaebc157)
 ![image](https://github.com/bilelbzeouich/dentist/assets/80858599/b544c9b2-06b3-45fc-a971-7fe414ac3764)
+![image](https://github.com/bilelbzeouich/dentist/assets/80858599/e0010556-3172-4f81-9e27-9085aaebc157)
+
 
 
 
